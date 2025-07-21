@@ -3,7 +3,7 @@ Hello, I'm Puchun Niu! 👋
 About Me
 🎓 Background: I hold a PhD in Animal Science with a focus on methane mitigation from dairy cattle. My work includes developing prediction models, exploring feed additives, and studying the rumen microbiome to tackle methane emissions.
 🌱 Currently Learning: I'm currently enhancing my skills in Python programming, following several courses, and building a data integration pipeline.
-💼 Working On: My current projects involve integrating methane measurements from multiple sources and establishing a data management protocol using ETL (Extract, Transform, Load).
+💼 Working On: I’m currently working on the project Accurate Gas Emissions Measures from Cattle with the GreenFeed System. The goal of this project is to develop international standards and guidelines for estimating gas emissions from beef and dairy cattle using the GreenFeed system across a range of production scenarios. Right now, I’m focused on building the framework for an international database of gas emissions measured using the GreenFeed technique. This is based on existing studies in both dairy and beef systems, and I’m actively reaching out to collaborators to contribute experimental data.
 
 Projects & Interests
 🔍 Automated Data Management: I’m automating data management traditionally done in Excel, using Python to build a robust infrastructure for both structured and unstructured data.
